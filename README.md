@@ -1,179 +1,140 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Hi+👋+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+Engineer;REST+API+Developer;Building+Secure+Backend+Systems+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+Developer;Building+Scalable+Backend+Applications"/>
 
 </div>
 
+<br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47f1e4d-7b9f-4a3c-a3c8-7a8f8b5f6c3a.gif" width="500"/>
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue"/>
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-# 👨‍💻 Java Backend Developer
-
-### 🚀 Building Scalable | Secure | Maintainable Backend Applications
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 </div>
 
 
 ---
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHh4c2R5aXJ6aHh5bGZ0aGJ1ZzV5dGJ6cWJ6d3F1dG9nY2M5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif">
-
-
-# 🧑‍💻 About Me
+# 👨‍💻 Java Backend Developer
 
 
 Hi 👋 I'm **Rajesh R**
 
-💻 Java Backend Developer with **1.2 years of experience** building scalable backend applications.
+I am a **Java Backend Developer with 1.2 years of experience** in designing and developing scalable backend applications using **Java, Spring Boot, Microservices, and RESTful APIs**.
 
-I specialize in:
+I specialize in building secure backend systems with:
 
-🔥 Java Backend Development  
-⚡ Spring Boot Applications  
-🔗 RESTful API Development  
-🏗 Microservices Architecture  
-🔐 Secure Authentication Systems  
-🗄 Database Optimization  
-
-
-I focus on creating backend solutions that are:
-
-✨ Clean  
-✨ Secure  
-✨ Scalable  
-✨ Production Ready  
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+- Hibernate
+- REST APIs
+- JWT Authentication
+- Microservices Architecture
 
 
-<br clear="right"/>
+I enjoy solving backend challenges, optimizing database performance, and developing clean, maintainable applications.
 
 
 ---
 
-# ⚙️ Tech Stack
+# 🛠️ Technical Skills
 
 
 <div align="center">
-
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,docker,git,maven,postman,idea&perline=5"/>
 
-
 </div>
 
 
-<br>
+### Backend Development
+
+- Java
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Hibernate
+- Microservices Architecture
+- RESTful APIs
 
 
-<table align="center">
+### Security
 
-<tr>
-<td width="50%">
-
-
-### Backend
-
-☕ Java  
-🌱 Spring Boot  
-🌱 Spring MVC  
-📦 Spring Data JPA  
-🔒 Spring Security  
-🛠 Hibernate  
+- Spring Security
+- JWT Authentication
+- Role Based Authorization
 
 
-</td>
+### Database
 
-<td width="50%">
-
-
-### Database & Tools
-
-🗄 MySQL  
-🍃 MongoDB  
-🏛 Oracle DB  
-🐳 Docker  
-📌 Git/GitHub  
-📖 Swagger  
-📮 Postman  
+- MySQL
+- MongoDB
+- Oracle DB
+- JDBC
 
 
-</td>
+### Tools
 
-</tr>
+- Docker
+- Git/GitHub
+- Maven
+- Swagger
+- Postman
 
-</table>
+
+### Testing
+
+- JUnit
+- Mockito
 
 
 ---
 
-# 💼 Professional Experience
+# 💼 Experience
 
 
-<div align="center">
+## Java Backend Developer
+
+### Cyfer Code Pvt. Ltd., Bangalore
+
+**February 2025 – April 2026**
 
 
-## 🚀 Java Backend Developer
-
-### Cyfer Code Pvt. Ltd. — Bangalore
-
-### February 2025 - April 2026
-
-
-</div>
-
-
-### What I Worked On:
-
+- Developed backend microservices using **Java, Spring Boot, and Spring Cloud**.
+- Designed and maintained RESTful APIs with Swagger documentation.
+- Improved MySQL and MongoDB performance through indexing and query optimization.
+- Implemented secure authentication and authorization using Spring Security and JWT.
+- Containerized applications using Docker.
+- Developed unit and integration tests using JUnit and Mockito.
+- Participated in Agile development, debugging, requirement analysis, and production support.
 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 
 ## 🌍 Tourism Web Application
 
 
-<img align="right" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+Backend application developed using Spring Boot for scalable user operations.
 
 
-A scalable backend application developed using Spring Boot.
+### Key Contributions:
+
+- Developed RESTful backend services.
+- Implemented CRUD operations using Spring Data JPA.
+- Secured APIs using JWT authentication.
+- Implemented role-based authorization.
+- Added centralized logging using SLF4J and Logback.
 
 
-### Features:
+**Technologies:**
 
-✅ RESTful APIs  
-✅ CRUD Operations  
-✅ Spring Data JPA Integration  
-✅ JWT Authentication  
-✅ Role Based Authorization  
-✅ Centralized Logging  
-
-
-**Tech Stack**
-
-<br clear="right"/>
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `JWT` `MySQL`
 
 
 ---
@@ -182,24 +143,19 @@ A scalable backend application developed using Spring Boot.
 ## 🔐 SecureHub
 
 
-<img align="right" width="250" src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif">
+Secure microservices application focused on authentication and secure communication.
 
 
-Secure microservices application focused on authentication and communication security.
+### Key Contributions:
+
+- Developed secure microservices.
+- Implemented Spring Security and JWT authentication.
+- Added token validation for inter-service communication.
 
 
-### Features:
+**Technologies:**
 
-✅ Microservices Architecture  
-✅ JWT Authentication  
-✅ Secure Token Validation  
-✅ Inter-Service Communication  
-
-
-**Tech Stack**
-
-
-<br clear="right"/>
+`Java` `Spring Boot` `Microservices` `Spring Security` `JWT`
 
 
 ---
@@ -208,80 +164,96 @@ Secure microservices application focused on authentication and communication sec
 ## 🛒 E-Commerce Web Application
 
 
-Backend system supporting online shopping operations.
+Backend system supporting product management, authentication, and order processing.
 
 
-### Features:
+### Key Contributions:
+
+- Developed backend modules for products, users, and orders.
+- Integrated Razorpay payment gateway.
+- Integrated Cloudinary media services.
+- Optimized MySQL database queries.
 
 
-🛍 Product Management  
-👤 Authentication Module  
-📦 Order Processing  
-💳 Razorpay Integration  
-☁ Cloudinary Integration  
-⚡ Database Optimization  
+**Technologies:**
 
-
-**Tech Stack**
+`Java` `Spring Boot` `JPA` `MySQL`
 
 
 ---
 
-# 🧠 Developer Skills
+# 🎓 Education
+
+
+**Bachelor of Technology (B.Tech)**  
+Electrical and Electronics Engineering  
+
+**Godavari Institute of Engineering and Technology**
+
+CGPA: **7.9**
+
+
+---
+
+# 📜 Certifications
+
+
+- Java Programming Certification — Skill Dezire
+- Java Full Stack Development Certification — JSpiders
+
+
+---
+
+# 🏆 Achievements
+
+
+- Recognized by project manager for delivering critical modules within deadlines.
+- Conducted internal knowledge-sharing sessions on Spring Boot best practices.
+- Contributed to backend design discussions and requirement analysis.
+
+
+---
+
+# 📊 GitHub Stats
 
 
 <div align="center">
 
 
-```text
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-Java              ████████████████████ 90%
 
-Spring Boot       ███████████████████   85%
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-REST APIs         ███████████████████   85%
 
-Hibernate/JPA     █████████████████     80%
+</div>
 
-SQL               ████████████████      75%
 
-Microservices     ███████████████       75%
+---
 
-Docker            ████████████          65%
+# 📫 Connect With Me
 
-Testing           █████████████         70%
-</div>🎓 Education
 
-🎓 Bachelor of Technology
+<div align="center">
 
-Electrical and Electronics Engineering
+📧 **rayudurajesh2001@gmail.com**
 
-Godavari Institute of Engineering and Technology
+<br/>
 
-CGPA: 7.9
+🔗 **LinkedIn:**  
+linkedin.com/in/rajesh-r-9920r8843
 
-📜 Certifications
+<br/>
 
-🏅 Java Programming Certification
-Skill Dezire
+📱 **Phone:** +91 9618992022
 
-🏅 Java Full Stack Development Certification
-JSpiders
+</div>
 
-🏆 Achievements
 
-🥇 Delivered critical backend modules within deadlines.
+---
 
-🥇 Conducted knowledge-sharing sessions on Spring Boot best practices.
+<div align="center">
 
-🥇 Contributed to backend architecture discussions.
+### ⭐ Building reliable backend systems with Java & Spring Boot 🚀
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/> </div>
-🔥 Contribution Snake Animation
-<div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/> </div>
-📫 Let's Connect
-<div align="center"> <a href="mailto:rayudurajesh2001@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/> </a> <a href="https://linkedin.com/in/rajesh-r-9920r8843"> <img src="https://img.shields.io/badge/LinkedIn-Rajesh%20R-blue?style=for-the-badge&logo=linkedin"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer"/>
-⭐ Thanks for visiting my profile 🚀
-</div> ```
+</div>
