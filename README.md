@@ -106,8 +106,6 @@ Building robust backend services with:
 ✔ Database Optimization  
 
 </td>
-
-
 <td width="50%">
 
 ## 🔐 Application Security
