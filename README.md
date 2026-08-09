@@ -1,294 +1,199 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Scalable+Backend+Systems"/>
+
 <br/>
 
 <p>
 <a href="mailto:rayudurajesh2001@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/rajesh-r-9920r8843">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/RAJESH">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
-</div>
-
-
-<img align="right" width="350" src="https://raw.githubusercontent.com/rajathkumarmp/rajathkumarmp/master/assets/developer.gif"/>
-
-
-# 👨‍💻 About Me
-
-Hi, I'm **Rajesh ** 👋
-
-I'm a **Java Backend Developer** focused on designing and developing secure, scalable, and high-performance backend applications.
-
-I enjoy transforming ideas into reliable software using clean architecture, modern backend technologies, and industry best practices.
-
-### What I Work With
-
-🚀 Building RESTful APIs with **Java & Spring Boot**  
-🔐 Designing secure applications using **Spring Security & JWT**  
-⚙️ Developing scalable systems using **Microservices Architecture**  
-🗄️ Creating optimized database solutions  
-🧩 Writing clean, maintainable, production-ready code
-
-### Currently Exploring
-
-🌐 Distributed Systems  
-☁️ Cloud Native Development  
-🏗 System Design  
-⚡ Performance Optimization  
-
-
-<br clear="right"/>
-
-
----
-
-# 🛠️ Tech Stack
-
-
-<div align="center">
-
-
-### 👨‍💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-
-### 🚀 Backend Technologies
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
-
-
-### 🗄 Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-
-### 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman"/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=RAJESH&color=00F7FF&style=for-the-badge)
 
 </div>
-
-
----
-
-# 🚀 What I Build
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🔥 Backend Engineering
-
-Building robust backend services with:
-
-✔ Java  
-✔ Spring Boot  
-✔ REST APIs  
-✔ JPA/Hibernate  
-✔ Database Optimization  
-
-</td>
-<td width="50%">
-
-## 🔐 Application Security
-
-Implementing:
-
-✔ JWT Authentication  
-✔ Role Based Authorization  
-✔ Secure API Design  
-✔ Access Control  
-
-</td>
-
-</tr>
-
-
-<tr>
-
-<td width="50%">
-
-## ⚡ Performance Focus
-
-Improving:
-
-✔ Database Queries  
-✔ API Response Time  
-✔ Application Scalability  
-
-</td>
-
-
-<td width="50%">
-
-## 🏗 Software Architecture
-
-Learning:
-
-✔ Microservices  
-✔ Design Patterns  
-✔ Clean Architecture  
-✔ Distributed Systems  
-
-</td>
-
-</tr>
-
-</table>
-
-
----
-
-# 🌟 Featured Projects
-
-
-## 🔐 SecureHub
-
-### Microservices Security Platform
-
-A backend security platform designed to manage authentication, authorization, and secure communication between services.
-
-
-### Features
-
-✅ JWT Based Authentication  
-✅ Spring Security Integration  
-✅ Role Based Access Control  
-✅ Microservice Communication  
-✅ Secure REST APIs  
-
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Spring Security` `JWT` `Docker` `MySQL`
-
-
----
-
-
-## 🛒 E-Commerce Backend System
-
-A scalable backend application designed for managing products, users, orders, and transactions.
-
-
-### Features
-
-✅ Product Management  
-✅ User Authentication  
-✅ Order Processing  
-✅ Payment Integration  
-✅ Transaction Handling  
-
-
-**Tech Stack**
-
-`Java` `Spring Boot` `JPA` `MySQL` `REST API`
-
-
----
-
-
-## 🌍 Tourism Management System
-
-A backend platform for managing tourism services with secure user access.
-
-
-### Features
-
-✅ CRUD Operations  
-✅ Authentication & Authorization  
-✅ Exception Handling  
-✅ Logging System  
-
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Hibernate`
-
-
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
 
 <br/>
 
+<img align="right" width="340" src="https://raw.githubusercontent.com/rajathkumarmp/rajathkumarmp/master/assets/developer.gif"/>
+
+## 👨‍💻 About Me
+
+I'm a **Java Backend Developer** who designs and builds secure, scalable, high-performance backend systems.
+
+I like turning ideas into reliable software — clean architecture, solid data modeling, and production-grade code are what I care about most.
+
+**What I work with**
+- 🚀 Building RESTful APIs with **Java & Spring Boot**
+- 🔐 Securing applications with **Spring Security & JWT**
+- ⚙️ Designing systems with **Microservices Architecture**
+- 🗄️ Modeling and optimizing relational & NoSQL databases
+- 🧩 Writing clean, testable, maintainable code
+
+**Currently exploring**
+- 🌐 Distributed Systems
+- ☁️ Cloud-Native Development
+- 🏗️ System Design
+- ⚡ Performance Optimization
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java"/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,aws"/>
 
 </div>
 
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Backend Engineering
+- Java & Spring Boot services
+- REST API design
+- JPA / Hibernate data layers
+- Database query optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Application Security
+- JWT-based authentication
+- Role-based authorization
+- Secure API design
+- Access control & validation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Performance
+- Query & index tuning
+- API response time improvements
+- Scalable service design
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture
+- Microservices
+- Design patterns
+- Clean architecture principles
+- Distributed systems fundamentals
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Achievements & Certifications
+## 🌟 Featured Projects
 
+### 🔐 [SecureHub](https://github.com/RAJESH) — Microservices Security Platform
+A backend security platform managing authentication, authorization, and secure inter-service communication.
 
-🏅 **Java Full Stack Development** — JSpiders  
+- JWT-based authentication
+- Spring Security integration
+- Role-based access control
+- Secure service-to-service communication
 
-🏅 **Java Programming Certification** — Skill Dezire  
-
-⭐ Developed secure REST APIs following industry practices  
-
-⭐ Built backend modules using modern Java ecosystem  
-
+`Java` `Spring Boot` `Spring Security` `JWT` `Docker` `MySQL`
 
 ---
 
-# 📚 My Development Philosophy
+### 🛒 [E-Commerce Backend System](https://github.com/RAJESH) — Scalable Commerce Platform
+A backend application for managing products, users, orders, and transactions.
 
+- Product & inventory management
+- User authentication
+- Order processing pipeline
+- Payment integration & transaction handling
+
+`Java` `Spring Boot` `JPA` `MySQL` `REST API`
+
+---
+
+### 🌍 [Tourism Management System](https://github.com/RAJESH) — Booking & Access Platform
+A backend platform for managing tourism services with secure, role-based user access.
+
+- Full CRUD operations
+- Authentication & authorization
+- Centralized exception handling
+- Structured logging
+
+`Java` `Spring Boot` `Hibernate`
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH&layout=compact&theme=tokyonight&hide_border=true"/>
 
-> "Great software is not only about making things work —  
-> it is about building systems that are reliable, scalable, and maintainable."
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESH&theme=tokyonight&hide_border=true"/>
 
 </div>
 
+---
+
+## 🏆 Achievements & Certifications
+
+- 🏅 **Java Full Stack Development** — JSpiders
+- 🏅 **Java Programming Certification** — Skill Dezire
+- ⭐ Built secure REST APIs following industry best practices
+- ⭐ Developed backend modules using the modern Java ecosystem
 
 ---
 
-# 🤝 Let's Connect
+## 📚 Development Philosophy
 
+> "Great software isn't only about making things work — it's about building systems that are reliable, scalable, and maintainable."
 
-I'm always interested in:
+---
 
-- Backend Development Opportunities
-- Open Source Collaboration
-- Software Engineering Discussions
+## 🤝 Let's Connect
 
+I'm always open to:
+- Backend development opportunities
+- Open-source collaboration
+- Software engineering discussions
 
 <div align="center">
 
-### 🚀 Java | Spring Boot | Microservices | Backend Engineering
+**🚀 Java · Spring Boot · Microservices · Backend Engineering**
 
 </div>
