@@ -40,7 +40,6 @@ I enjoy transforming ideas into reliable software using clean architecture, mode
 🗄️ Creating optimized database solutions  
 🧩 Writing clean, maintainable, production-ready code
 
-
 ### Currently Exploring
 
 🌐 Distributed Systems  
