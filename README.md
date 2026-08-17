@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Scalable+Backend+Systems"/>
-
 <br/>
 
 <p>
