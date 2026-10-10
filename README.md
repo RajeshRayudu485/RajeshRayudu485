@@ -1,107 +1,36 @@
-<style>
-  /* ═══════════════════════════════════════════
-     ANIMATIONS — additive only, original content preserved
-     ═══════════════════════════════════════════ */
-
-  @keyframes gradientShift {
-    0%   { background-position: 0% 50%; }
-    50%  { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  @keyframes floaty {
-    0%, 100% { transform: translateY(0px); }
-    50%      { transform: translateY(-14px); }
-  }
-
-  @keyframes pulseGlow {
-    0%, 100% { box-shadow: 0 0 0 0 rgba(0, 247, 255, 0.75); }
-    70%      { box-shadow: 0 0 0 14px rgba(0, 247, 255, 0); }
-  }
-
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(28px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  @keyframes borderRun {
-    0%   { background-position: 0% 50%; }
-    100% { background-position: 200% 50%; }
-  }
-
-  /* Animated gradient headline text */
-  .grad-text {
-    background: linear-gradient(90deg, #00F7FF, #0A66C2, #6A00FF, #00F7FF);
-    background-size: 300% 300%;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientShift 6s ease infinite;
-    font-weight: 800;
-  }
-
-  .float   { animation: floaty 5s ease-in-out infinite; }
-  .pulse   { animation: pulseGlow 2.2s infinite; border-radius: 6px; }
-  .fade-up { animation: fadeUp 0.9s ease both; }
-
-  .d1 { animation-delay: 0.15s; }
-  .d2 { animation-delay: 0.30s; }
-  .d3 { animation-delay: 0.45s; }
-  .d4 { animation-delay: 0.60s; }
-
-  /* Hover lift + neon glow on cards, badges, images */
-  .lift {
-    transition: transform .35s cubic-bezier(.2,.8,.2,1),
-                box-shadow .35s ease,
-                filter .35s ease;
-  }
-  .lift:hover {
-    transform: translateY(-8px) scale(1.03);
-    box-shadow: 0 12px 40px rgba(0, 247, 255, .45),
-                0 0 0 1px rgba(0, 247, 255, .35);
-    filter: brightness(1.12);
-  }
-
-  /* Animated running border for the "Open to Work" badge */
-  .border-run {
-    background: linear-gradient(90deg, #00F7FF, #0A66C2, #6A00FF, #00F7FF);
-    background-size: 200% 200%;
-    animation: borderRun 3s linear infinite;
-    padding: 3px;
-    border-radius: 8px;
-    display: inline-block;
-  }
-</style>
-
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0A66C2,100:6A00FF&height=200&section=header&text=Rajesh%20R&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer&descAlignY=58&descSize=22&descAlign=50"/>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Scalable+Backend+Systems;Clean+Code+%7C+Secure+APIs+%7C+Real+Impact"/>
+
 <br/>
 
 <p>
 <a href="mailto:rayudurajesh2001@gmail.com">
-<img class="lift" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/rajesh-r-9920r8843">
-<img class="lift" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/RAJESH">
-<img class="lift" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 <p>
-<img class="lift" src="https://komarev.com/ghpvc/?username=RAJESH&color=00F7FF&style=for-the-badge"/>
-<span class="border-run"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Backend%20Engineering-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"/></span>
+<img src="https://komarev.com/ghpvc/?username=RAJESH&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/RAJESH?label=FOLLOWERS&style=for-the-badge&color=00F7FF&logo=github"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Backend%20Engineering-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
 
 </div>
 
 <br/>
 
-<img class="float" align="right" width="340" src="https://raw.githubusercontent.com/rajathkumarmp/rajathkumarmp/master/assets/developer.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/rajathkumarmp/rajathkumarmp/master/assets/developer.gif"/>
 
-## <span class="grad-text">👨‍💻 About Me</span>
+## 👨‍💻 About Me
 
 I'm a **Java Backend Developer** who designs and builds secure, scalable, high-performance backend systems.
 
@@ -124,31 +53,39 @@ I like turning ideas into reliable software — clean architecture, solid data m
 
 ---
 
-## <span class="grad-text">🛠️ Tech Stack</span>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 <br/>
-<img class="lift" src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java"/>
 
 **Backend**
 <br/>
-<img class="lift" src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle"/>
 
 **Databases**
 <br/>
-<img class="lift" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
 
 **Tools & Platforms**
 <br/>
-<img class="lift" src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,aws"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,aws"/>
 
 </div>
 
 ---
 
-## <span class="grad-text">🚀 What I Build</span>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</div>
+
+## 🚀 What I Build
 
 <table>
 <tr>
@@ -194,7 +131,7 @@ I like turning ideas into reliable software — clean architecture, solid data m
 
 ---
 
-## <span class="grad-text">🌟 Featured Projects</span>
+## 🌟 Featured Projects
 
 ### 🔐 [SecureHub](https://github.com/RAJESH) — Microservices Security Platform
 A backend security platform managing authentication, authorization, and secure inter-service communication.
@@ -232,30 +169,30 @@ A backend platform for managing tourism services with secure, role-based user ac
 
 ---
 
-## <span class="grad-text">📊 GitHub Analytics</span>
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img class="lift" height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img class="lift" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img class="lift" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESH&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESH&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img class="lift" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH&theme=tokyo-night&hide_border=true&area=true"/>
 
 <br/>
 
-<img class="lift" src="https://github-profile-trophy.vercel.app/?username=RAJESH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RAJESH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-## <span class="grad-text">🏆 Achievements & Certifications</span>
+## 🏆 Achievements & Certifications
 
 - 🏅 **Java Full Stack Development** — JSpiders
 - 🏅 **Java Programming Certification** — Skill Dezire
@@ -264,13 +201,13 @@ A backend platform for managing tourism services with secure, role-based user ac
 
 ---
 
-## <span class="grad-text">📚 Development Philosophy</span>
+## 📚 Development Philosophy
 
 > "Great software isn't only about making things work — it's about building systems that are reliable, scalable, and maintainable."
 
 ---
 
-## <span class="grad-text">🤝 Let's Connect</span>
+## 🤝 Let's Connect
 
 I'm always open to:
 - Backend development opportunities
@@ -280,14 +217,16 @@ I'm always open to:
 <div align="center">
 
 <a href="mailto:rayudurajesh2001@gmail.com">
-<img class="lift" src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/rajesh-r-9920r8843">
-<img class="lift" src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**🚀 Java · Spring Boot · Microservices · Backend Engineering**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Microservices;Backend+Engineering+%E2%80%A2+Clean+Architecture;Building+systems+that+scale."/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:0A66C2,100:00F7FF&height=140&section=footer"/>
