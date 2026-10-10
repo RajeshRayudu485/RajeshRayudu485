@@ -31,7 +31,7 @@
 <!-- ══════════════════════════════════════════════════════
      ANIME BOY TYPING ON LAPTOP — RIGHT SIDE
      ══════════════════════════════════════════════════════ -->
-<img align="right" width="380" alt="Anime Boy Coder" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"/>
+<img align="right" width="380" alt="Anime Boy Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
