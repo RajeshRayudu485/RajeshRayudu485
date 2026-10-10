@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0A66C2,100:6A00FF&height=200&section=header&text=Rajesh%20R&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer&descAlignY=58&descSize=22&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0A66C2,100:6A00FF&height=200&section=header&text=Rajesh%20R&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Backend%20Developer&descAlignY=58&descSize=22"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Scalable+Backend+Systems;Clean+Code+%7C+Secure+APIs+%7C+Real+Impact"/>
 
@@ -28,7 +28,8 @@
 
 <br/>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/rajathkumarmp/rajathkumarmp/master/assets/developer.gif"/>
+<!-- ══════ ANIME CODER GIF — RIGHT SIDE ══════ -->
+<img align="right" width="380" alt="Anime Coder" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -80,10 +81,6 @@ I like turning ideas into reliable software — clean architecture, solid data m
 </div>
 
 ---
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-</div>
 
 ## 🚀 What I Build
 
