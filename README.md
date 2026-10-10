@@ -1,8 +1,6 @@
 <style>
   /* ═══════════════════════════════════════════
-     ANIMATIONS  (rendered on websites / local previews)
-     GitHub strips <style>, but the GIFs & animated
-     SVGs below still animate everywhere.
+     ANIMATIONS — additive only, original content preserved
      ═══════════════════════════════════════════ */
 
   @keyframes gradientShift {
@@ -26,11 +24,6 @@
     to   { opacity: 1; transform: translateY(0); }
   }
 
-  @keyframes slideInLeft {
-    from { opacity: 0; transform: translateX(-40px); }
-    to   { opacity: 1; transform: translateX(0); }
-  }
-
   @keyframes borderRun {
     0%   { background-position: 0% 50%; }
     100% { background-position: 200% 50%; }
@@ -47,10 +40,9 @@
     font-weight: 800;
   }
 
-  .float      { animation: floaty 5s ease-in-out infinite; }
-  .pulse      { animation: pulseGlow 2.2s infinite; border-radius: 6px; }
-  .fade-up    { animation: fadeUp 0.9s ease both; }
-  .slide-left { animation: slideInLeft 0.9s ease both; }
+  .float   { animation: floaty 5s ease-in-out infinite; }
+  .pulse   { animation: pulseGlow 2.2s infinite; border-radius: 6px; }
+  .fade-up { animation: fadeUp 0.9s ease both; }
 
   .d1 { animation-delay: 0.15s; }
   .d2 { animation-delay: 0.30s; }
@@ -81,21 +73,9 @@
   }
 </style>
 
-<!-- ══════════════════════════════════════════════════════
-     ANIMATED WAVE HEADER
-     ══════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0A66C2,100:6A00FF&height=210&section=header&text=Rajesh%20R&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Microservices&descAlignY=56&descSize=20"/>
-
-<!-- Animated typing headline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Engineer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Designing+Scalable+Backend+Systems;Clean+Code+%7C+Secure+APIs+%7C+Real+Impact"/>
-
-<br/>
-
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rajesh+R;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs;Building+Scalable+Backend+Systems;Clean+Code+%7C+Secure+APIs+%7C+Real+Impact"/>
 <br/>
 
 <p>
@@ -111,8 +91,7 @@
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=RAJESH&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/RAJESH?label=FOLLOWERS&style=for-the-badge&color=00F7FF&logo=github"/>
+<img class="lift" src="https://komarev.com/ghpvc/?username=RAJESH&color=00F7FF&style=for-the-badge"/>
 <span class="border-run"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Backend%20Engineering-0A66C2?style=for-the-badge&logo=checkmarx&logoColor=white"/></span>
 </p>
 
@@ -120,24 +99,195 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════
-     ABOUT ME  +  FLOATING DEV GIF
-     ══════════════════════════════════════════════════════ -->
 <img class="float" align="right" width="340" src="https://raw.githubusercontent.com/rajathkumarmp/rajathkumarmp/master/assets/developer.gif"/>
 
 ## <span class="grad-text">👨‍💻 About Me</span>
 
-```java
-public class RajeshR implements BackendEngineer {
+I'm a **Java Backend Developer** who designs and builds secure, scalable, high-performance backend systems.
 
-    private final String   role    = "Java Backend Developer";
-    private final String   focus   = "Secure, scalable, high-performance systems";
-    private final String[] values  = { "Clean Architecture",
-                                       "Solid Data Modeling",
-                                       "Production-Grade Code" };
+I like turning ideas into reliable software — clean architecture, solid data modeling, and production-grade code are what I care about most.
 
-    @Override
-    public String mission() {
-        return "Turn complex ideas into reliable software that scales.";
-    }
-}
+**What I work with**
+- 🚀 Building RESTful APIs with **Java & Spring Boot**
+- 🔐 Securing applications with **Spring Security & JWT**
+- ⚙️ Designing systems with **Microservices Architecture**
+- 🗄️ Modeling and optimizing relational & NoSQL databases
+- 🧩 Writing clean, testable, maintainable code
+
+**Currently exploring**
+- 🌐 Distributed Systems
+- ☁️ Cloud-Native Development
+- 🏗️ System Design
+- ⚡ Performance Optimization
+
+<br clear="right"/>
+
+---
+
+## <span class="grad-text">🛠️ Tech Stack</span>
+
+<div align="center">
+
+**Languages**
+<br/>
+<img class="lift" src="https://skillicons.dev/icons?i=java"/>
+
+**Backend**
+<br/>
+<img class="lift" src="https://skillicons.dev/icons?i=spring,hibernate,maven,gradle"/>
+
+**Databases**
+<br/>
+<img class="lift" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
+
+**Tools & Platforms**
+<br/>
+<img class="lift" src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,aws"/>
+
+</div>
+
+---
+
+## <span class="grad-text">🚀 What I Build</span>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔥 Backend Engineering
+- Java & Spring Boot services
+- REST API design
+- JPA / Hibernate data layers
+- Database query optimization
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Application Security
+- JWT-based authentication
+- Role-based authorization
+- Secure API design
+- Access control & validation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Performance
+- Query & index tuning
+- API response time improvements
+- Scalable service design
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Architecture
+- Microservices
+- Design patterns
+- Clean architecture principles
+- Distributed systems fundamentals
+
+</td>
+</tr>
+</table>
+
+---
+
+## <span class="grad-text">🌟 Featured Projects</span>
+
+### 🔐 [SecureHub](https://github.com/RAJESH) — Microservices Security Platform
+A backend security platform managing authentication, authorization, and secure inter-service communication.
+
+- JWT-based authentication
+- Spring Security integration
+- Role-based access control
+- Secure service-to-service communication
+
+`Java` `Spring Boot` `Spring Security` `JWT` `Docker` `MySQL`
+
+---
+
+### 🛒 [E-Commerce Backend System](https://github.com/RAJESH) — Scalable Commerce Platform
+A backend application for managing products, users, orders, and transactions.
+
+- Product & inventory management
+- User authentication
+- Order processing pipeline
+- Payment integration & transaction handling
+
+`Java` `Spring Boot` `JPA` `MySQL` `REST API`
+
+---
+
+### 🌍 [Tourism Management System](https://github.com/RAJESH) — Booking & Access Platform
+A backend platform for managing tourism services with secure, role-based user access.
+
+- Full CRUD operations
+- Authentication & authorization
+- Centralized exception handling
+- Structured logging
+
+`Java` `Spring Boot` `Hibernate`
+
+---
+
+## <span class="grad-text">📊 GitHub Analytics</span>
+
+<div align="center">
+
+<img class="lift" height="180em" src="https://github-readme-stats.vercel.app/api?username=RAJESH&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img class="lift" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img class="lift" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESH&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img class="lift" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJESH&theme=tokyo-night&hide_border=true&area=true"/>
+
+<br/>
+
+<img class="lift" src="https://github-profile-trophy.vercel.app/?username=RAJESH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## <span class="grad-text">🏆 Achievements & Certifications</span>
+
+- 🏅 **Java Full Stack Development** — JSpiders
+- 🏅 **Java Programming Certification** — Skill Dezire
+- ⭐ Built secure REST APIs following industry best practices
+- ⭐ Developed backend modules using the modern Java ecosystem
+
+---
+
+## <span class="grad-text">📚 Development Philosophy</span>
+
+> "Great software isn't only about making things work — it's about building systems that are reliable, scalable, and maintainable."
+
+---
+
+## <span class="grad-text">🤝 Let's Connect</span>
+
+I'm always open to:
+- Backend development opportunities
+- Open-source collaboration
+- Software engineering discussions
+
+<div align="center">
+
+<a href="mailto:rayudurajesh2001@gmail.com">
+<img class="lift" src="https://img.shields.io/badge/Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/rajesh-r-9920r8843">
+<img class="lift" src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**🚀 Java · Spring Boot · Microservices · Backend Engineering**
+
+</div>
